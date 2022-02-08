@@ -9,4 +9,4 @@ Create your own camera settings as a scriptable object as needed.
 <b>Controls</b>: <br/>
 WASD to move around <br/>
 Hold MMB to rotate camera <br/>
-Scroll to change height
+Scroll to change camera's vertical height
